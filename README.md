@@ -1,4 +1,7 @@
 # Governance and Security Operations
+
+Reach out on [![Gitter](https://badges.gitter.im/Azure-Security-Engineer-Associate-Prep/community.svg)](https://gitter.im/Azure-Security-Engineer-Associate-Prep/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
+
 > Content for this repo will consist of
 > - Azure Policy
 > - Region and Subscription Policies
